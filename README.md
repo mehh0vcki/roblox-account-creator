@@ -3,7 +3,7 @@
 </p>
 
 # roblox account creator,
-or **rewritten**, is better version of (traili's selenium account creator)[https://github.com/trailios/roblox-account-creator]. it features bug fixes and better code, and also **no longer in linux!**
+or **rewritten**, is better version of [traili's selenium account creator](https://github.com/trailios/roblox-account-creator). it features bug fixes and better code, and also **no longer in linux!**
 
 * quick note
 *  * now, you can receive support at [this server](https://discord.gg/rFfJAtN22s). any questions, suggestions and etc will be accepted only here.
